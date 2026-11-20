@@ -49,6 +49,8 @@ Logic_Building/
 ## Getting Started
 
 ### Prerequisites
+- GCC (for C programs)
+- G++ (for C++ programs)
 - JDK 8 or higher (for Java programs)
 
 ### Clone the repository
@@ -58,6 +60,18 @@ cd Logic_Building
 ```
 
 ### Compile and run
+
+**C**
+```bash
+gcc Program1.c -o program1
+./program1
+```
+
+**C++**
+```bash
+g++ program2.cpp -o program2
+./program2
+```
 
 **Java**
 ```bash
