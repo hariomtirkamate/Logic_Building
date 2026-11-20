@@ -1,5 +1,4 @@
 # Logic_Building
-# Logic_Building
 
 A collection of beginner-friendly programs in **C, C++ and Java** for practicing logic building and problem-solving skills.
 
